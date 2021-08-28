@@ -1,0 +1,2 @@
+# Authorization Form CodeCademy Project
+This project uses **React** to hide a website’s contact page behind a password form. This accomplished by using a **React component** to set up a simple authorization layer
